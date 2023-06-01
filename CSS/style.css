@@ -8,7 +8,7 @@ body{
     padding: 0;
 }
 header{
-    width: 20rem;
+    width: 22rem;
     background-color:hsl(219, 30%, 18%);
     display: flex;
     flex-direction: row;
@@ -40,7 +40,7 @@ header .menu h3:hover{
     color: hsl(0, 0%, 100%);
 }
 main{
-    width: 20rem;
+    width: 22rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -60,12 +60,12 @@ main{
 .background1 img{
     margin-left: auto;
    margin-right: auto;
-   width: 20rem;
+   width: 22rem;
 }
 .background1 h1{
     color: hsl(0, 0%, 100%);
     font-family: 'Open Sans', sans-serif;
-    width: 18rem;
+    width: 20rem;
     font-size: 1.3rem;
     text-align: center;
 }
@@ -75,7 +75,7 @@ main{
     font-weight: 400;
     color: hsl(0, 4%, 82%);
     text-align: center;
-    width: 18rem;
+    width: 20rem;
     font-size: 0.8rem;
 }
 .Btn1{
@@ -98,10 +98,10 @@ main{
     align-items: center;
     margin-left: auto;
     margin-right: auto;
-    width: 18rem;
+    width: 20rem;
 }
 .background2 .details1,.details2,.details3,.details4{
-    width: 18rem;
+    width: 20rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -129,7 +129,7 @@ main{
     margin-right: auto;
 }
 .background2 .side2 img{
-    width:18rem;
+    width:20rem;
 }
 .background2 .side2 h1{
     font-family: 'Raleway', sans-serif;
@@ -160,7 +160,7 @@ main{
     align-items: center;
 }
 .side3 .colum1,.colum2,.colum3{
-    width: 18rem;
+    width: 20rem;
     background-color: hsl(219, 30%, 18%);
     margin-bottom: 2rem;
     margin-top: 2rem;
@@ -209,7 +209,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 18rem;
+    width: 20rem;
     margin-left: auto;
     margin-right: auto;
     background-color: hsl(219, 30%, 18%);
@@ -261,7 +261,7 @@ footer{
     background-color: hsl(216, 53%, 9%);
     margin-left: auto;
     margin-right: auto;
-    width: 20rem;
+    width: 22rem;
 }
 footer .row{
     display: flex;
@@ -282,11 +282,11 @@ footer .row h1{
      margin-left: 1rem;
 }
 footer .colum1,footer .colum2,footer .colum3,footer .colum4,footer .colum5{
-    width: 16rem;
+    width: 18rem;
     background-color: hsl(216, 53%, 9%);
 }
 footer .colum1{
-    width: 18rem;
+    width: 20rem;
     display: flex; 
     flex-direction: row;
 }
